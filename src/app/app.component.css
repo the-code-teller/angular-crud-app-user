@@ -1,0 +1,26 @@
+/* table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  } */
+  th,
+  td {
+    padding: 5px;
+  }
+  
+  button {
+    margin-left: 5px;
+  }
+  
+  form {
+    padding: 5px;
+  }
+  
+  form button {
+    margin-left: 13px;
+  }
+  
+  form input {
+    margin-left: 1px;
+  }
+  
+  
